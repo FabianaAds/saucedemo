@@ -4,8 +4,9 @@ export const generateUser = () => {
   return {
     fullname: faker.person.fullName(),
     lastname: faker.person.lastName(),
-    firtsname: faker.person.firstName(),
+    firstname: faker.person.firstName(),
     email: faker.internet.email(),
     password: faker.internet.password(),
+    postalcode: faker.location.zipCode()
   };
 };
