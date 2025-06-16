@@ -1,13 +1,13 @@
 import { generateUser } from '../support/fakeData';
 
 
-describe('Shopping cart ', () => {
-  it('You must add a product, complete the purchase and validate the summary.', () => {
+describe('Fluxo de Compra - Adicionar produto e finalizar pedido ', () => {
+  it('Deve permitir que o usuário adicione um produto ao carrinho e conclua a compra com sucesso.', () => {
     const user = generateUser();
    
 
     // Login
-    cy.login();
+    cy.Login();
 
     // Adicionar produto ao carrinho
     cy.get('[data-test="item-4-title-link"]').should('be.visible');
