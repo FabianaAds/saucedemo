@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","150","Should get a list of users","","Mon Jun 16 21:06:43 BRT 2025","passed","Mon Jun 16 21:06:43 BRT 2025","","API Test - Users","",""
+"","7326","Deve permitir que o usuário adicione um produto ao carrinho e conclua a compra com sucesso.","","Mon Jun 16 21:06:32 BRT 2025","passed","Mon Jun 16 21:06:40 BRT 2025","","Fluxo de Compra - Adicionar produto e finalizar pedido ","",""
