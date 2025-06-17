@@ -2,8 +2,7 @@
 
 Este repositório contém exemplos práticos de testes automatizados usando o **Cypress**, com foco em:
 
-✅ Testes End-to-End (E2E)  
-✅ Testes de API  
+✅ Testes End-to-End (E2E)   
 ✅ Estrutura de projeto organizada  
 ✅ Scripts prontos para execução local  
 
